@@ -1,0 +1,7 @@
+D:\C-DAC\Personal-Gitdata\.net\Assignment_Solution\assignment2_Q2\obj\Debug\assignment2_Q2.csproj.AssemblyReference.cache
+D:\C-DAC\Personal-Gitdata\.net\Assignment_Solution\assignment2_Q2\obj\Debug\assignment2_Q2.csproj.CoreCompileInputs.cache
+D:\C-DAC\Personal-Gitdata\.net\Assignment_Solution\assignment2_Q2\bin\Debug\assignment2_Q2.exe.config
+D:\C-DAC\Personal-Gitdata\.net\Assignment_Solution\assignment2_Q2\bin\Debug\assignment2_Q2.exe
+D:\C-DAC\Personal-Gitdata\.net\Assignment_Solution\assignment2_Q2\bin\Debug\assignment2_Q2.pdb
+D:\C-DAC\Personal-Gitdata\.net\Assignment_Solution\assignment2_Q2\obj\Debug\assignment2_Q2.exe
+D:\C-DAC\Personal-Gitdata\.net\Assignment_Solution\assignment2_Q2\obj\Debug\assignment2_Q2.pdb
